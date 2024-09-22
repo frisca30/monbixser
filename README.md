@@ -27,11 +27,11 @@ python main.py
 kalo gagal yang di atas
 
 ```
-```
+
 python3 main.py
 ```
 
-```
+
 ***DONASI***
 
 kalo mau bayarin kopi https://www.jalintraksi.com/bangcups
